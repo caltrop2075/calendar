@@ -1,0 +1,11 @@
+# julian systems
+# Astronomical had to use ZERO so it sorts right
+0000-00-00|-2440587.70835|Astronomical - Stellarium|✨️
+0000-01-01||HP48 Ticks, always wondered about date|🕓️
+1582-10-15||HP48/Gregorian Start|🕓️
+1858-11-16|-40587.20835|Astro MJD|✨️
+1899-12-30||Libre Off 1 / dflt, why...?|🕓️
+1900-01-01||Libre Off 2 / Excel, makes sense|🕓️
+1904-01-01||Libre Off 3, why...?|🕓️
+1970-01-01|0|Linux, why...?|🕓️
+1991-08-06||Internet|⚡️
