@@ -1,5 +1,6 @@
 # calendar
-calendar utilities
+
+Calendar Utilities
 
 cal.sh
 --------------------------------------------------------------------------------
